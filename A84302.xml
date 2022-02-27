@@ -1,0 +1,314 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A friendly check to Dr Bastwick: sent unto him in a letter from a Presbyterian friend.</title>
+            <author>S. E.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84302</idno>
+            <idno type="STC">Wing E39</idno>
+            <idno type="STC">Thomason E300_18</idno>
+            <idno type="STC">ESTC R200260</idno>
+            <idno type="EEBO-CITATION">99861066</idno>
+            <idno type="PROQUEST">99861066</idno>
+            <idno type="VID">113194</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84302)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113194)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 49:E300[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A friendly check to Dr Bastwick: sent unto him in a letter from a Presbyterian friend.</title>
+                  <author>S. E.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Vnderhill at the Bible in Wood-street.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>M.DC.XLV. [1645]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on page 8: S.E.</note>
+                  <note>Annotation on Thomason copy: "Sept: 11th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bastwick, John, 1593-1654 --  Early works to 1800.</term>
+               <term>Presbyterianism --  Early works to 1800.</term>
+               <term>Dissenters, Religious --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Religion --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:113194:1" rendition="simple:additions"/>
+A FRIENDLY CHECK TO D<hi rend="sup">r</hi> 
+               <hi>BASTWICK:</hi> Sent unto him in a Letter from a Presbyterian
+friend.</p>
+            <q>
+               <bibl>JAMES 5. 9.</bibl>
+               <p>
+                  <hi>Grudge not one against another, brethren, leſt ye be condem<g ref="char:EOLhyphen"/>ned; Behold, the Judge
+ſtandeth before the door.</hi>
+               </p>
+            </q>
+            <p>Publiſhed according to Order.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Tho. Vnderhill</hi> at the Bible in Wood-ſtreet. M. DC.
+XLV.</p>
+            <pb facs="tcp:113194:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:113194:2"/>
+            <head>TO THE WORTHILY HONOVRED, D<hi rend="sup">r</hi> 
+               <hi>John Baſtwick.</hi>
+            </head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T was the enquiry ſometime of our Lord and Saviour Jeſus Chriſt (What do men ſay of
+me? or, who do they ſay I am?) not that he cared for the popular vote, nor that he was ignorant
+of the opinion the world had of him, or the conſtruction or interpretation they gave of his
+actions; he knew the world was evil, and therefore would ſpeake evil: but he was more
+inquiſitive to know what the godly ſaid of him, and there<g ref="char:EOLhyphen"/>fore demands a ſecond queſtion:
+But who do <hi>(you)</hi> you, my Diſciples, ſay I am? It would be convenient for a man, for a
+Chriſtian man to ſay ſometimes, what do the godly and wiſe ſay of me, and what
+interpre<g ref="char:EOLhyphen"/>tation do <hi>they</hi> give of my actions? for by this means ſometimes they may hear by
+others what is in their own hearts, and come to know that in themſelves, which becauſe of
+<hi>ſelfe</hi> they knew not before. Such a queſtion as this, S<hi rend="sup">r</hi>, I heard you not long ſince
+aske in company where providence caſt both you and me, <hi>viz,</hi> what acceptation hath my
+book (meaning, the <hi>Preſbyterian dependent,</hi> &amp;c.) found among the people? but I muſt
+confeſſe it was in modeſt termes beſeeming you; the anſwer then returned was not ſo
+plain as was deſired. S<hi rend="sup">r</hi>, I ſhall give you now an account of what approbation that book and
+two more, <hi>viz.</hi> hath had by the wiſe and godly; but before I ſpeake to that, let me
+ſay ſomething of the firſt queſtion, <hi>viz.</hi> what men ſay of you? S<hi rend="sup">r</hi>, they
+re<g ref="char:EOLhyphen"/>cognize and call to minde, that not long ſince God called you to ſuffer under a proud and
+inſulting generation of men, which for their pride and partiality God hath made them vile and
+baſe before all the people<hi>:</hi> herein God honoured, I ſay honoured, becauſe God
+honoureth us more to ſet us about any of his worke, though it be to ſuffer for him, then we
+honour him; I ſay again, honoured <hi>you,</hi> and two or three more, whereas if he pleaſed,
+he might have honoured many others of his then upright
+<pb n="4" facs="tcp:113194:3"/>
+ſervants to ſuffer for him, which by the ſame aſſiſting and ſupporting grace God gave
+you, they would have honoured God as much as you did; But as if you <hi>three</hi> were the only
+<hi>three Worthies,</hi> to <hi>you</hi> it was given to ſuffer for his Name. For the carriage
+and conſtancie you all ſhewed in your ſufferings, where your perſons were not known beyond
+the confines of three Kingdomes; your names were honoured, and were like a precious box of oyntment
+poured out, ſending forth an odoriferous and fragrant ſmell, God brought you out of your
+ſuffer<g ref="char:EOLhyphen"/>ings, heard the prayers and tears of his people for you, inlarged you, impriſoned your
+adverſaries: a great mercy and to be had in everla<g ref="char:EOLhyphen"/>ſting remembrance. This called for
+thankefullneſſe and circumſpection at your hands. <hi>Suffering Saints, when delivered,
+ſhould walke humbly, or elſe they loſe their glory. Hezekiah</hi> as faithfull and upright a
+ſer<g ref="char:EOLhyphen"/>vant of God as God had any, was ſick, ſick to the death in the opinion of his doctors,
+and in the obſervation of the Jews, the firſt man ſay they that ever recovered of that
+diſeaſe; but his heart was lifted up, he ren<g ref="char:EOLhyphen"/>dred not to God according to his great
+goodneſſe, you know the con<g ref="char:EOLhyphen"/>ſequence. S<hi rend="sup">r</hi>, this is the fear, the godly jealouſie your
+friends godly and wiſe have of you, that you are lifted up, that you render not to God ac<g ref="char:EOLhyphen"/>cording
+to his great goodneſſe, and they fear this is the effect that will enſue upon this, that as
+when you humbled your ſelfe and honoured God, God honoured you, ſo now you beginning to exalt
+your ſelf, and ſo diſhonouring God, God will humble you. S<hi rend="sup">t</hi> 
+               <hi>Paul</hi> was beholding to
+God for a preventing Pill in this kinde, a thorne in his fleſh, a meſſenger of Satan: S<hi rend="sup">r</hi>, in
+one word, your friends, your godly wiſe friends, your <hi>Preſbyterian friends,</hi> muſt I
+call them ſo, fear you have loſt a great deal of the exerciſe of your graces, by which you
+have loſt a great deal of the luſtre of your graces, and clowded that good report you had once
+a<g ref="char:EOLhyphen"/>mongſt the Saints; and this is that which the godly ſay of you; and I ſhall ſay no more
+to the firſt query, only the Lord ſhew you your own heart, and humble you for your own
+ſin.</p>
+            <p>Now, S<hi rend="sup">r</hi>, I ſhall give you an account what men ſay of your late workes; As for your
+<hi>Preſbyterian dependent Gods ordinance,</hi> the wiſe and godly ſay, that for the firſt
+part of it, there is worth and weight in it, being founded upon the Scripture; though they that are
+of the contrary opinion ſlight it, and pufte at it; a fault of theirs, and ſavours too much of
+pride and ſelfiſhneſſe: yet I do not ſee they ſhake thoſe Arguments by any of their
+encounters. But as for many paſſages by the bye, many expreſſions, eſpecially in the
+latter part of that book,
+<pb n="5" facs="tcp:113194:3"/>
+wherein more particularly you diſparage their learning and their preaching, the
+<hi>Preſbyterians</hi> dare not own but do diſclaim, they being not of the number of them that
+commend themſelves, and diſcommend and diſparage the gifts and graces of diſſenting
+Brethren: they can I fear too truly ſay of ſome of the Independent party, they are too proud,
+and cenſorious, and ſelfiſh, that they are paſſionate, and carry on pri<g ref="char:EOLhyphen"/>vate intereſts
+under publike pretences, and that there is more ſelfe and paſſion in ſome of their
+Arguments, then there is reaſon or Divinity: yet for all that, they can acknowledge their parts,
+their graces; they can ſay, ſuch an one is an Independent, for diſtinction, and yet ſay he
+is a godly man, and a learned man, and they can ſpie grace, and love grace in a diſſenting
+Brother: If there be any that fail herein among the Presbyterians, as why may there not be one that
+may ſomewhat diſparage that party, as there is in the contrary party thoſe that are a ſhame
+to them, thoſe whom they diſclaim either their perſons or pra<g ref="char:EOLhyphen"/>ctices; I ſay, if there be
+any ſuch amongſt them or us, let them bear it themſelves, but let not the whole ſuffer.
+This is the fault you charge upon M<hi rend="sup">r</hi> 
+               <hi>I. L.</hi> charging the whole Parliament, when but ſome
+par<g ref="char:EOLhyphen"/>ticular perſons do offend. I conceive, S<hi rend="sup">r</hi>, you have to do with the worſt of them, and
+ſuppoſe they are the very worſt of men, yet your Maſter Chriſt never taught you to revile
+them that revile you, and to upbraid all for the folly and weakneſſe of ſome of that party:
+<hi>Michael</hi> the Arch-Angel diſputed with the Malignants father, the grand Ma<g ref="char:EOLhyphen"/>lignant, yet me
+thinks there is a great deal of emphaſis even in the tranſlation, it ſaith, he
+<hi>[durſt]</hi> not bring in, and he durſt not bring in <hi>[a]</hi> or one rayling
+accuſation againſt Satan: how then ſhould any dare to bring many railing accuſations
+againſt them, whereof ſome of them at the leaſt are diſſenting brethren? and if we
+ſhould ungrace ſome of them, if I may ſo ſpeak, we ſhould be as faulty as ſome of them
+are for unchurching us.</p>
+            <p>It may be you will ſay, S<hi rend="sup">r</hi>, all this is too generall, and charges muſt be particular, but
+wherein in particular do my godly friends and Preſ<g ref="char:EOLhyphen"/>byterians diſlike and diſclaim me? In
+theſe things more eſpecially do your friends bewail your apparent miſtakes.</p>
+            <p>Firſt, In your commending of your ſelfe, and there is a veine of this that runs thorow your
+three laſt books; this I am ſure as <hi>Solomon</hi> doth diſlike, and counſels the
+contrary, ſo you never learned it of your Maſter Chriſt, nor of any godly, wiſe, ſober
+and praiſeworthy Presbyterian. It is the fault (and worthily taken notice of) of ſome
+<pb n="6" facs="tcp:113194:4"/>
+of the Independent party, for commending themſelves as the only learned, the only Saints, that
+they look as impartially on things as fleſh and bloud can in any juncture of time (a phraſe of
+theirs) when others that indeed are impartiall in this can ſee the contrary in ſome of them,
+and do bewail it, in ſtead of upbraiding them with it.</p>
+            <p>Secondly, Your Presbyterian friends think you faulty, and herein go not along with you, in
+diſcommending and diſparaging the gifts or graces of the contrary party. S<hi rend="sup">r</hi>, cannot the
+Nut-ſhell be thrown away; and the kernell kept? muſt the leaſt of good be thrown away,
+becauſe it hath much droſſe? doth God ſee a little grace in us in a deal of cor<g ref="char:EOLhyphen"/>ruption,
+and ſhall not we do ſo too? becauſe ſome of that party have done much diſſervice to the
+Church and ſtate, ſhall we ſay all of them do ſo? I my ſelfe know to the contrary, and of
+ſome I dare ſay, it is through their weakneſſe and infirmity. It is the fault of the
+Caviliers, where they come and finde a little goods, they leave none: will you where you finde but
+a little goodneſſe, plunder them of all? this is a fault, and worthily calls for your taking
+notice of it. You will fetch an argument from <hi>Bellarmine,</hi> or another Popiſh writer, yea
+and com<g ref="char:EOLhyphen"/>mend his learning. We ſay, give the Devil his due, much more to a diſ<g ref="char:EOLhyphen"/>ſenting
+Brother.</p>
+            <p>Thirdly, The <hi>Preſbyterians</hi> diſclaim your charging of the whole party to be ſuch
+as the worſt of them are: Some are proud, imperious and impetuous in their way, cenſorious,
+uncivill, full of wrath, they can ſee nothing praiſeworthy but in themſelves, no light like
+theirs, nor no reaſon like theirs; others are unlearned, irrationall and brutiſh in reſpect
+of thoſe; now to ſay all are thus and thus, as this and this man is, ſo are all the reſt;
+this the wiſe and godly do diſclaim.</p>
+            <p>Fourthly, The bitterneſſe of your expreſſions are juſtly diſliked and diſclaimed.
+S<hi rend="sup">r</hi>, it needs not; let them that have bad cauſes uſe bad words and <hi>Billingſgate</hi>
+dialect: ill words, bitter expreſſions prove nothing, nor commend not the cauſe vindicated.
+The <hi>Preſbyterian</hi> Cauſe is no ſuch Cauſe that needs rayling expreſſions, or
+bitter ſpeech<g ref="char:EOLhyphen"/>es. S<hi rend="sup">r</hi>, to ſpeak plain, there are many expreſſions in your firſt,
+ſe<g ref="char:EOLhyphen"/>cond and third book, that are much below the parts and learning of D<hi rend="sup">r</hi> 
+               <hi>Baſtwick;</hi>
+many of them are unbeſeeming, unſaintlike, uncivill ex<g ref="char:EOLhyphen"/>preſſions. Look but in your juſt
+defence to <hi>I. L.</hi> pag. 39. and 40. and many other places. I am aſhamed to name the
+expreſſions: And in the mean time you cry out againſt them for their unchriſtian and
+uncha<g ref="char:EOLhyphen"/>ritable
+<pb n="7" facs="tcp:113194:4"/>
+expreſſions; as <hi>Plato</hi> charged <hi>Diogenes,</hi> to tread down his pride (as
+<hi>Diogenes</hi> call'd it) with greater pride. What needs ſo much gall? one would have thought
+you of all other men had learned the juſt meaſure and proportion of every ingredient. Doth
+Jeſts and Jears, light and extravagant expreſſions become D<hi rend="sup">r</hi> 
+               <hi>Baſtwick?</hi> they are
+quite below you; and you put theſe jears in their mouthes to de<g ref="char:EOLhyphen"/>ride your friends, for truly,
+S<hi rend="sup">r</hi>, this is the fruit of many of your expreſ<g ref="char:EOLhyphen"/>ſions in your books, where you have eaſed your
+ſelfe, you have burthen<g ref="char:EOLhyphen"/>ed your friends, and they lie under them.</p>
+            <p>I ſhall name no more; but herein in theſe particulars eſpecially I dare ſay, and that
+not without ſome ground of what I ſay, all the godly and wiſe that are of the
+<hi>Preſbyterian</hi> party, that I do hear of or meet with upon any occaſion, do diſlike
+you, and do bewail your mi<g ref="char:EOLhyphen"/>ſtakes herein.</p>
+            <p>As for your Adverſary M<hi rend="sup">r</hi> 
+               <hi>I. L.</hi> you eaſily perſwade your friends that he hath
+wronged and abuſed you; he ſticks at none, but ſtrikes at all; a learned and religious
+Aſſembly of Miniſters, yea the Supream Court muſt paſſe under his Satyricall laſh,
+and he impetuouſly muſt rage and rayle at both of them. I am confident that if God loves him he
+will lay his proud ſpirit low enough, before God hath done with him; Yet I will not Reprobate him
+by no means, he may come and ſee his errours, and obtain pardon of the Parliament; yea and God
+yet may make uſe of him, when he is fitted for imployment; ſo I ſhall leave him with this
+requeſt to him, that whileſt he writes and fights againſt an Arbitrary power, he be not a
+ſervant to his own luſts and paſſions, whileſt he ſpeaks againſt the powers that are
+of God.</p>
+            <p>And for you, Noble S<hi rend="sup">r</hi>, let this requeſt be granted by you, that which you deſire of others,
+Reade your own Books over with candid ingenuity, becauſe your Pen is not infallible; take it once
+more in your hands, not to write more till you have got more humility, becauſe we ſuffer much
+by what you have written, but to correct what you have written; ſuch a margent as this I
+preſume would be very pleaſing to God, and profitable to your ſelfe and others: by doing this
+you will make your parts to be acknowledged, your graces to ſhine; you would endear your friends,
+and ſtop the mouthes of your adverſa<g ref="char:EOLhyphen"/>ries; and which is more then all, in this God would be
+glorified.
+<pb n="8" facs="tcp:113194:5"/>
+The Lord put it into your heart to do that which will be moſt for Gods glory and for the Churches
+good, increaſe all the graces of his Spirit in you, make you ſhine more and more like the Sun
+to the mid-day, when the light of the wicked ſhall be put out like a candle: This is the prayer
+of,</p>
+            <closer>
+               <salute>Sir,</salute>
+               <signed>Your Brother in Chriſt, S. E.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
